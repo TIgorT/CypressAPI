@@ -1,0 +1,13 @@
+{
+  "id": 350,
+  "username": "Max",
+  "firstName": "Maksim",
+  "lastName": "Velev",
+  "email": "vam.vanga2045@yandex.ru",
+  "password": "vam",
+  "phone": "896001391849",
+  "userStatus": 1,
+  "changeFirstName": "Dmitry",
+  "changeLastName": "Vysotsky",
+  "changePassword": "mav"
+}
